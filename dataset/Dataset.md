@@ -69,7 +69,7 @@ Neural Computing and Applications.
 CHIFRAUD Dataset (GitHub): `<ADD_LINK_HERE>`
 
 **Article link**:  
-CHIFRAUD Article: `<ADD_LINK_HERE>`
+CHIFRAUD Article: `<[ADD_LINK_HERE](https://aclanthology.org/2025.coling-main.398/)>`
 
 **Description**:  
 CHIFRAUD is a **long-term benchmark dataset for Chinese telecom fraud detection**, designed to reflect realistic fraud scenarios in large-scale communication systems.  
