@@ -66,7 +66,7 @@ Neural Computing and Applications.
 
 **Name**: CHIFRAUD dataset  
 **Dataset link**:  
-CHIFRAUD Dataset (GitHub): `<ADD_LINK_HERE>`
+CHIFRAUD Dataset (GitHub): https://github.com/xuemingxxx/ChiFraud
 
 **Article link**:  
 CHIFRAUD Article: (https://aclanthology.org/2025.coling-main.398/)
