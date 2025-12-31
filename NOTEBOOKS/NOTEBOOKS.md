@@ -9,17 +9,20 @@
 ## نوت‌بوک‌ها (Notebooks)
 
 * **ChiFraud.ipynb**
-  پیاده‌سازی مدل تشخیص کلاهبرداری متنی برای زبان چینی مبتنی بر دیتاست CHIFRAUD و مدل‌های مبتنی بر Transformer، مطابق با تنظیمات مقالهٔ مرجع.
+
+   پیاده‌سازی مدل تشخیص کلاهبرداری متنی برای زبان چینی مبتنی بر دیتاست CHIFRAUD و مدل‌های مبتنی بر Transformer، مطابق با تنظیمات مقالهٔ مرجع.
   لینک اجرا در Google Colab:
   [https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ChiFraud.ipynb](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ChiFraud.ipynb)
 
 * **EngFraud.ipynb**
-  پیاده‌سازی تشخیص پیام‌های اسپم و کلاهبرداری در زبان انگلیسی با استفاده از دیتاست SMS Spam Collection و یک مدل Transformer از پیش‌آموزش‌دیده.
+
+   پیاده‌سازی تشخیص پیام‌های اسپم و کلاهبرداری در زبان انگلیسی با استفاده از دیتاست SMS Spam Collection و یک مدل Transformer از پیش‌آموزش‌دیده.
   لینک اجرا در Google Colab:
   [https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/EngFraud.ipynb](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/EngFraud.ipynb)
 
 * **ArabFraud.ipynb**
-  پیاده‌سازی تشخیص اسپم در زبان عربی بر پایهٔ داده‌های Twitter و مدل‌های Transformer ویژهٔ متون عربی.
+
+   پیاده‌سازی تشخیص اسپم در زبان عربی بر پایهٔ داده‌های Twitter و مدل‌های Transformer ویژهٔ متون عربی.
   لینک اجرا در Google Colab:
   [https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ArabFraud.ipynb](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ArabFraud.ipynb)
 
