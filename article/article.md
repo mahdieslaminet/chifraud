@@ -10,10 +10,8 @@
 
 **Paper title:** CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection
 
-
 * **صفحهٔ رسمی انتشار (ACL Anthology):**
   [https://aclanthology.org/2025.coling-main.398/](https://aclanthology.org/2025.coling-main.398/)
-  
 
 * **فایل PDF رسمی:**
   [https://aclanthology.org/2025.coling-main.398.pdf](https://aclanthology.org/2025.coling-main.398.pdf)
