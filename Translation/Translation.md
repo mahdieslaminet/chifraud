@@ -11,7 +11,8 @@
 **Title:** CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection
 
 * **Official publication page (ACL Anthology):**
-  [https://aclanthology.org/2025.coling-main.398/](https://aclanthology.org/2025.coling-main.398/)
+
+   [https://aclanthology.org/2025.coling-main.398/](https://aclanthology.org/2025.coling-main.398/)
 
 ---
 
@@ -20,7 +21,8 @@
 ترجمهٔ فارسی این مقاله توسط **نویسندهٔ همین مخزن GitHub** انجام شده است و به‌صورت یک فایل مستقل در Google Drive میزبانی می‌شود.
 
 * **لینک ترجمهٔ فارسی (Google Drive):**
-  [https://drive.google.com/file/d/1CWUukuTu4GEMUvbM_oZPURcuO3BZElV0/view?usp=sharing](https://drive.google.com/file/d/1CWUukuTu4GEMUvbM_oZPURcuO3BZElV0/view?usp=sharing)
+
+   [https://drive.google.com/file/d/1CWUukuTu4GEMUvbM_oZPURcuO3BZElV0/view?usp=sharing](https://drive.google.com/file/d/1CWUukuTu4GEMUvbM_oZPURcuO3BZElV0/view?usp=sharing)
 
 > توجه: این ترجمه غیررسمی بوده و صرفاً برای استفادهٔ علمی، آموزشی و درک بهتر محتوای مقاله تهیه شده است.
 
