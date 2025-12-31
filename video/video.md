@@ -11,7 +11,6 @@
 
 ## 🎥 ویدیو ۲: توضیح پیاده‌سازی
 - **عنوان:** پیاده‌سازی CHIFRAUD با BERT (PyTorch + Transformers)
-
 - **لینک مشاهده/دانلود:** <https://drive.google.com/file/d/1cnRzRCOaXldFEWgqwpni0i5Ttk2ExSha/view?usp=drivesdk>
 
 
