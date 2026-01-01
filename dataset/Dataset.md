@@ -1,80 +1,98 @@
-# Datasets
+# DATASETS
 
-## Overview
+## نمای کلی
 
-This project, **Telecom Fraud Text Detection (CHIFRAUD)**, leverages multiple **multilingual text datasets** for spam and telecom fraud detection, covering **English, Arabic, and Chinese**.  
-The datasets are used to evaluate and reproduce experiments based on transformer-based NLP models for fraud detection.
+این پروژه، **Telecom Fraud Text Detection (CHIFRAUD)**، از چند دیتاست **چندزبانهٔ متنی** برای تشخیص اسپم و کلاهبرداری مخابراتی استفاده می‌کند و سه زبان **English، Arabic و Chinese** را پوشش می‌دهد. هدف اصلی، ایجاد شفافیت در منابع داده و فراهم‌کردن امکان **بازتولیدپذیری** آزمایش‌ها در چارچوب مدل‌های Transformer برای تشخیص کلاهبرداری است.
 
-⚠️ **Important note**:  
-All datasets remain the property of their original authors and providers.  
-This repository **does not redistribute raw datasets**; it only provides **references, links, and preprocessing guidance** to ensure transparency and reproducibility.
+نکتهٔ مهم: تمامی دیتاست‌ها متعلق به منابع و ارائه‌دهندگان اصلی هستند. این مخزن **دیتاست خام را بازنشر نمی‌کند** و صرفاً لینک‌ها، ارجاع‌ها و راهنمای کلی دسترسی/پیش‌پردازش را برای استفادهٔ پژوهشی ارائه می‌دهد.
 
 ---
 
-## Datasets Used
+## دیتاست‌های استفاده‌شده
 
 ### A) English — SMS Spam Collection (Kaggle mirror)
 
-**Name**: SMS Spam Collection  
-**Access link**:  
-https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download
+**Name:** SMS Spam Collection
+**Access link:**
 
-**Description**:  
-A widely used benchmark dataset for SMS spam detection consisting of **5,574 English SMS messages**, annotated with binary labels:
-- `ham` (legitimate messages)
-- `spam` (fraudulent or unsolicited messages)
+[SMS Spam Collection (Kaggle)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download)
 
-The dataset contains two primary columns:
-- `v1`: label (`ham` / `spam`)
-- `v2`: message text
+**Description:**
+یک دیتاست استاندارد و پرکاربرد برای تشخیص اسپم پیامکی شامل **5,574 پیام SMS انگلیسی** با برچسب‌گذاری دودسته‌ای:
+
+* `ham` (پیام‌های سالم/عادی)
+* `spam` (پیام‌های اسپم/نامطلوب)
+
+ساختار داده به‌صورت رایج شامل دو ستون اصلی است:
+
+* `v1`: برچسب (`ham` / `spam`)
+* `v2`: متن پیام
 
 #### Original source & citation
 
-- Original dataset page:  
-  http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
+* Original dataset page:
 
-- Reference paper:  
-  Almeida, T. A., Gómez Hidalgo, J. M., & Yamakami, A.  
-  *Contributions to the Study of SMS Spam Filtering: New Collection and Results.*  
-  Proceedings of DOCENG 2011.
+   [SMS Spam Collection (Original)](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
+
+* Reference paper:
+  Almeida, T. A., Gómez Hidalgo, J. M., & Yamakami, A. (2011). *Contributions to the Study of SMS Spam Filtering: New Collection and Results.* Proceedings of DOCENG 2011.
 
 ---
 
 ### B) Arabic — Arabic Spam Tweets Dataset (Mendeley)
 
-**Name**: Arabic spam tweets dataset  
-**Access link**:  
-https://data.mendeley.com/datasets/86x733xkb8/1
+**Name:** Arabic spam tweets dataset
+**Access link:**
 
-**Description**:  
-This dataset was collected using the **Twitter API** between **January 27, 2021 and March 10, 2021**, and contains **13,241 Arabic tweets** annotated for spam detection:
-- **1,924 Spam**
-- **11,299 Ham**
+[Arabic spam tweets dataset (Mendeley)](https://data.mendeley.com/datasets/86x733xkb8/1)
 
-The original release format is **XLSX**.  
-In this project, the dataset is **converted to CSV using Python** for downstream NLP preprocessing and modeling.
+**Description:**
+این دیتاست با استفاده از **Twitter API** در بازهٔ زمانی **January 27, 2021 تا March 10, 2021** جمع‌آوری شده و شامل **13,241 توییت عربی** برای تشخیص اسپم است:
+
+* **1,924 Spam**
+* **11,299 Ham**
+
+فرمت انتشار اولیه **XLSX** بوده است. در این پروژه، داده با استفاده از Python به **CSV** تبدیل شده تا برای پیش‌پردازش و مدل‌سازی در زنجیرهٔ NLP قابل استفاده باشد.
 
 #### Citation
 
-Kaddoura, S., Alex, S. A., Itani, M., Henno, S., AlNashash, A., & Hemanth, D. J. (2023).  
-*Arabic spam tweets classification using deep learning.*  
-Neural Computing and Applications.
+Kaddoura, S., Alex, S. A., Itani, M., Henno, S., AlNashash, A., & Hemanth, D. J. (2023). *Arabic spam tweets classification using deep learning.* Neural Computing and Applications.
 
 ---
 
 ### C) Chinese — CHIFRAUD Dataset
 
-**Name**: CHIFRAUD dataset  
-**Dataset link**:  
-CHIFRAUD Dataset (GitHub): https://github.com/xuemingxxx/ChiFraud
+**Name:** CHIFRAUD dataset
+**Dataset link:**
 
-**Article link**:  
-CHIFRAUD Article: https://aclanthology.org/2025.coling-main.398/
+[CHIFRAUD Dataset (GitHub)](https://github.com/xuemingxxx/ChiFraud)
 
-**Description**:  
-CHIFRAUD is a **long-term benchmark dataset for Chinese telecom fraud detection**, designed to reflect realistic fraud scenarios in large-scale communication systems.  
-It serves as the core Chinese-language benchmark in this project.
+**Article link:**
+
+[CHIFRAUD Article (ACL Anthology)](https://aclanthology.org/2025.coling-main.398/)
+
+**Description:**
+CHIFRAUD یک **long-term benchmark dataset** برای تشخیص کلاهبرداری مخابراتی/وب در زبان Chinese است که با هدف بازتاب سناریوهای واقع‌گرایانه و متنوع کلاهبرداری طراحی شده است و در این پروژه به‌عنوان بنچمارک اصلی زبان چینی استفاده می‌شود.
 
 #### Citation
 
-Tang, Zou, Liang, Jin, Wang, & Cui (2025)
+Tang, M., Zou, L., Liang, S.-N., Jin, Z., Wang, W., & Cui, S. (2025). *CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection*. In *Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)*. ACL Anthology. [https://aclanthology.org/2025.coling-main.398/](https://aclanthology.org/2025.coling-main.398/)
+
+
+---
+
+## لایسنس و شرایط استفاده
+
+هر دیتاست تابع شرایط استفاده و لایسنس منبع اصلی خود است. مسئولیت رعایت شرایط لایسنس، ارجاع‌دهی صحیح و استفادهٔ مطابق با مقررات، بر عهدهٔ کاربر است. این مخزن صرفاً راهنمای دسترسی و مستندسازی منابع را ارائه می‌دهد.
+
+---
+
+## How to cite
+
+* Almeida, T. A., Gómez Hidalgo, J. M., & Yamakami, A. (2011). *Contributions to the Study of SMS Spam Filtering: New Collection and Results.* Proceedings of DOCENG 2011.
+  Original dataset page: [http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
+
+* Kaddoura, S., Alex, S. A., Itani, M., Henno, S., AlNashash, A., & Hemanth, D. J. (2023). *Arabic spam tweets classification using deep learning.* Neural Computing and Applications.
+  Dataset page: [https://data.mendeley.com/datasets/86x733xkb8/1](https://data.mendeley.com/datasets/86x733xkb8/1)
+
+* Tang, M., Zou, L., Liang, S.-N., Jin, Z., Wang, W., & Cui, S. (2025). *CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection*. In *Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)*. ACL Anthology. [https://aclanthology.org/2025.coling-main.398/](https://aclanthology.org/2025.coling-main.398/)
