@@ -11,7 +11,9 @@
 ### Chinese (CHIFRAUD)
 
 **ChiFraud.ipynb**
+
 هدف: پیاده‌سازی و ارزیابی مدل تشخیص کلاهبرداری متنی چندکلاسه برای زبان چینی بر اساس دیتاست CHIFRAUD و مدل‌های مبتنی بر Transformer، مطابق با تنظیمات مقالهٔ مرجع.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ChiFraud.ipynb)
 
 ---
@@ -19,7 +21,9 @@
 ### English (SMS Spam)
 
 **EngFraud.ipynb**
+
 هدف: پیاده‌سازی تشخیص پیام‌های اسپم و کلاهبرداری در زبان انگلیسی با استفاده از دیتاست SMS Spam Collection و یک مدل Transformer از پیش‌آموزش‌دیده.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/EngFraud.ipynb)
 
 ---
@@ -27,7 +31,9 @@
 ### Arabic (Arabic Tweets)
 
 **ArabFraud.ipynb**
+
 هدف: پیاده‌سازی تشخیص اسپم در زبان عربی بر پایهٔ داده‌های Twitter و مدل‌های Transformer ویژهٔ متون عربی.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ArabFraud.ipynb)
 
 ---
