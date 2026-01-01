@@ -12,9 +12,9 @@
 
 **Title:** CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection
 
-مقالهٔ اصلی به‌صورت رسمی در ACL Anthology منتشر شده است و نسخهٔ معتبر آن از طریق لینک زیر در دسترس قرار دارد:
+نسخهٔ رسمی و معتبر مقاله از طریق ACL Anthology در دسترس است:
 
-[https://aclanthology.org/2025.coling-main.398/](https://aclanthology.org/2025.coling-main.398/)
+[ACL Anthology – CHIFRAUD](https://aclanthology.org/2025.coling-main.398/)
 
 ---
 
@@ -24,7 +24,7 @@
 
 لینک دسترسی به ترجمهٔ فارسی (Google Drive):
 
-[https://drive.google.com/file/d/1CWUukuTu4GEMUvbM_oZPURcuO3BZElV0/view?usp=sharing](https://drive.google.com/file/d/1CWUukuTu4GEMUvbM_oZPURcuO3BZElV0/view?usp=sharing)
+[Persian Translation (Google Drive)](https://drive.google.com/file/d/1CWUukuTu4GEMUvbM_oZPURcuO3BZElV0/view?usp=sharing)
 
 این ترجمه **غیررسمی** بوده و صرفاً با هدف درک بهتر مفاهیم علمی مقاله برای مخاطبان فارسی‌زبان تهیه شده است.
 
@@ -34,7 +34,9 @@
 
 ### APA
 
-Tang, M., Zou, L., Liang, S.-N., Jin, Z., Wang, W., & Cui, S. (2025). *CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection*. In *Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)*. ACL Anthology. [https://aclanthology.org/2025.coling-main.398/](https://aclanthology.org/2025.coling-main.398/)
+Tang, M., Zou, L., Liang, S.-N., Jin, Z., Wang, W., & Cui, S. (2025). *CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection*. In *Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)*. ACL Anthology. 
+
+[ACL Anthology – CHIFRAUD](https://aclanthology.org/2025.coling-main.398/)
 
 ---
 
