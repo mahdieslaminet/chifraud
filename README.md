@@ -56,9 +56,16 @@
 
 ```bash
 pip install torch transformers gradio
+````
 
+اجرای برنامه:
+
+```bash
+python app.py
+```
 
 > ℹ️ **نکته‌ی فنی:**
+> 
 > تمامی مدل‌ها به‌صورت **CPU-only** و با **FP32** اجرا می‌شوند تا پایداری و سازگاری در محیط‌های عمومی (مانند Hugging Face Spaces) تضمین شود.
 
 ### متغیرهای محیطی (Environment Variables)
@@ -100,7 +107,6 @@ export MAX_INPUT_CHARS=2000
 ├── video/
 │   └── video.md           # لینک و توضیح ویدیوهای ارائهٔ پروژه
 │
-├── app.py                 # اپلیکیشن Gradio (Hugging Face Space)
 ├── LICENSE
 └── README.md
 ```
@@ -155,14 +161,14 @@ export MAX_INPUT_CHARS=2000
 ## اطلاعات درس (Course Information)
 
 * **نام درس:** شبکه‌های مخابراتی
-* **دانشگاه:** دانشگاه آزاد اسلامی واحد علوم و تحقیقات
+* **دانشگاه:** دانشگاه آزاد اسلامی واحد علوم و تحقیقات 
 * **استاد درس:** آقای دکتر مهدی اسلامی
 * **ترم:** 7
 
----
 
+---
 
 <p align="center">
   <sub>Research-oriented • Multilingual • CPU-friendly • Built for telecom security</sub>
 </p>
-```
+
