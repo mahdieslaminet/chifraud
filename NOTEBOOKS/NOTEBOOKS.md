@@ -31,7 +31,8 @@
    پیاده‌سازی تشخیص اسپم در زبان عربی بر پایهٔ داده‌های Twitter و مدل‌های Transformer ویژهٔ متون عربی
   لینک اجرا در Google Colab:
 
-   [https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ArabFraud.ipynb](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ArabFraud.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ArabFraud.ipynb)
 
 ---
 
