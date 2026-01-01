@@ -22,7 +22,9 @@
    پیاده‌سازی تشخیص پیام‌های اسپم و کلاهبرداری در زبان انگلیسی با استفاده از دیتاست SMS Spam Collection و یک مدل Transformer از پیش‌آموزش‌دیده
   لینک اجرا در Google Colab:
 
-   [https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/EngFraud.ipynb](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/EngFraud.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/EngFraud.ipynb)
+
 
 * **ArabFraud.ipynb**
 
