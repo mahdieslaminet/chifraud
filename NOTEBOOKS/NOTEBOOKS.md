@@ -13,7 +13,9 @@
    پیاده‌سازی مدل تشخیص کلاهبرداری متنی برای زبان چینی مبتنی بر دیتاست CHIFRAUD و مدل‌های مبتنی بر Transformer، مطابق با تنظیمات مقالهٔ مرجع
   لینک اجرا در Google Colab:
 
-   [https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ChiFraud.ipynb](https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ChiFraud.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/alm-82/telecom-networks-weekly-projects/blob/main/week8/ChiFraud.ipynb)
+
 
 * **EngFraud.ipynb**
 
