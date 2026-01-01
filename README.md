@@ -6,10 +6,11 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/ali822345442378/chifraud-demo)
 [![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-blue)](https://aclanthology.org/2025.coling-main.398/)
-[![Colab](https://img.shields.io/badge/Colab-Chinese%20|%20English%20|%20Arabic-orange)](#)
-[![License](https://img.shields.io/badge/License-Academic%20%2F%20See%20repo-lightgrey)](#)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](#)
-[![Gradio](https://img.shields.io/badge/Gradio-App-green)](#)
+[![Colab](https://img.shields.io/badge/Colab-Notebooks-orange)](NOTEBOOKS/NOTEBOOKS.md)
+[![License](https://img.shields.io/badge/License-LICENSE-lightgrey)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Gradio](https://img.shields.io/badge/Gradio-App-green)](https://www.gradio.app/)
+
 
 ---
 
