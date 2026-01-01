@@ -1,4 +1,3 @@
-````md
 # CHIFRAUD — Multilingual Fraud/Spam Text Detection
 
 **چارچوبی پژوهشی و مدرن برای تشخیص کلاهبرداری‌های متنی در بسترهای مخابراتی (Chinese • English • Arabic)**
@@ -56,13 +55,7 @@
 
 ```bash
 pip install torch transformers gradio
-````
 
-اجرای برنامه:
-
-```bash
-python app.py
-```
 
 > ℹ️ **نکته‌ی فنی:**
 > تمامی مدل‌ها به‌صورت **CPU-only** و با **FP32** اجرا می‌شوند تا پایداری و سازگاری در محیط‌های عمومی (مانند Hugging Face Spaces) تضمین شود.
